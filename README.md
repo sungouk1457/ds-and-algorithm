@@ -25,7 +25,11 @@
     - 트리
     - 그래프 
 ## 4일차
+- 파이썬 자료구조
+    - 큐 다시
+    - 이진 트리
 
+    ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 ## 5일차
 
 ## 6일차
