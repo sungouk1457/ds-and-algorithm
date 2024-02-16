@@ -6,11 +6,15 @@
 - 파이썬 기초 복습, 함수까지
 
 ## 2일차
-- 파이썬 기초 복습
-- 파이썬 자료구조
-    - 선형리스트
-    - 단순 연결 리스트 = 파이썬의 list와 동일
+- 파이썬 기초 복습 완료  
 
+![자료구조](https://t1.daumcdn.net/cfile/tistory/23202B4C53FDC5600C)
+
+- 파이썬 자료구조
+    - 선형리스트(배열)
+    - 단순 연결 리스트 = 파이썬의 list와 동일  
+
+    ![연결리스트](https://upload.wikimedia.org/wikipedia/commons/9/9c/Single_linked_list.png)
 ## 3일차
 - 파이썬 자료구조
     - 단순 연결 리스트 다시
@@ -28,7 +32,6 @@
 - 파이썬 자료구조
     - 큐 다시
     - 이진 트리
-
     ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 ## 5일차
 
