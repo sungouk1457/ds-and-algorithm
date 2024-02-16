@@ -34,7 +34,14 @@
     - 이진 트리   
     ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 ## 5일차
-
+- 파이썬 자료구조/알고리즘
+    - 그래프
+    ![그래프](https://raw.githubusercontent.com/sungouk1457/ds-and-algorithm/main/images/graph02.png)
 ## 6일차
-
+- 파이썬 자료구조/알고리즘
+    - 재귀호출
+    - 정렬
 ## 7일차
+- 파이썬 자료구조/알고리즘
+    - 검색
+- 코딩테스트
